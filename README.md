@@ -9,4 +9,5 @@ Ensure you have the following Python libraries installed:
 +requests
 +beautifulsoup4
 
-You can install these libraries using pip:
+You can install these libraries using pip:pip install requests beautifulsoup4
+
