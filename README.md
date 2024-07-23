@@ -11,3 +11,8 @@ Ensure you have the following Python libraries installed:
 
 You can install these libraries using pip:pip install requests beautifulsoup4
 
+# Troubleshooting
+
+-No Headlines Found:
+If the script doesn't print any headlines, the structure of the BBC News website might have changed. Check the HTML snippet printed by the script and adjust the find_all method accordingly.
+
